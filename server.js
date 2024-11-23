@@ -19,7 +19,7 @@ app.use(cookieparser());
 app.use(
   cors({
     credentials: true,
-    origin: "http://localhost:5173", // Adjust the front-end URL accordingly
+    origin: "role-base-frontend-c6xngrlcv-vipinmishra0852s-projects.vercel.app", // Adjust the front-end URL accordingly
   })
 );
 
